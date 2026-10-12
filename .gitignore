@@ -221,3 +221,5 @@ __marimo__/
 # Private data
 data/private/
 
+# XRD raw source file: not committed until redistribution is confirmed
+data/raw/
