@@ -25,7 +25,7 @@
 | Original filename | 10570_2026_7136_MOESM1_ESM.txt |
 | Name used in the article text | cotton.txt |
 | Download date | 2026-10-12 |
-| Size on disk | File size | 14.5 KB (16.0 KB allocated on disk) |
+| File size | 14.5 KB (16.0 KB allocated on disk) |
 | Expected local location | data/raw/10570_2026_7136_MOESM1_ESM.txt |
 | Other supplementary files | Files 2 to 6 (two CIF files, a PAR analysis file, a PDF guide, an XLSX of refinement output) were not used. File 6 contains computed refinement output, not the raw measurement. |
 
