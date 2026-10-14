@@ -63,13 +63,13 @@
 
 - What the article page states: The article is open access under CC BY 4.0, which allows sharing and adapting with attribution. A data availability statement says the data are in the article and its supplementary files. The page also carries a notice that the article is a U.S. Government work, not under copyright in the US, with foreign copyright possibly applying.
 - Separate licence for the supplementary files: Not stated on the page.
-- **Decision (Day 1):** The raw file is NOT committed to this repository. It is kept locally in `data/raw/`, which is listed in `.gitignore`.
+- Decision (Day 1): The raw file is NOT committed to this repository. It is kept locally in `data/raw/`, which is listed in `.gitignore`.
 - To be revisited on Day 4 before the v0.1 release.
 
 ## 6. Licence and raw-file storage decision
 
-- **Licence statement found:** [none stated]
-- **Decision:** The raw file is **not committed** to this repository. Download it yourself (see below).
+- Licence statement found: none stated
+- Decision: The raw file is **not committed** to this repository. Download it yourself (see below).
 
 ## 7. How to obtain the file
 
