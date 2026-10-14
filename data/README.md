@@ -81,3 +81,7 @@
 ## 8. Citation
 
 Nam, S., French, A. D., & Kashem, M. N. H. (2026). Open-source Rietveld refinement for cellulose crystallinity using a laboratory powder X-ray diffractometer: a hands-on tutorial. Cellulose. https://doi.org/10.1007/s10570-026-07136-7
+
+## 9. AI assistance
+
+I used an AI assistant (Claude Sonnet 5.5, by Anthropic) while building this project, for troubleshooting tools such as Git and Jupyter, for drafting and structuring some explanatory text in the notebooks, and for checking my understanding. I reviewed and edited the text I kept. Analysis choices and interpretations are mine unless a note says otherwise.
