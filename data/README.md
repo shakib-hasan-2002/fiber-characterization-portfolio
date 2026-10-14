@@ -66,13 +66,18 @@
 - **Decision (Day 1):** The raw file is NOT committed to this repository. It is kept locally in `data/raw/`, which is listed in `.gitignore`.
 - To be revisited on Day 4 before the v0.1 release.
 
-## 6. How to obtain the file
+## 6. Licence and raw-file storage decision
+
+- **Licence statement found:** [none stated]
+- **Decision:** The raw file is **not committed** to this repository. Download it yourself (see below).
+
+## 7. How to obtain the file
 
 1. Open https://doi.org/10.1007/s10570-026-07136-7
 2. Scroll to "Supplementary Information".
 3. Download "Supplementary file1" (TEXT).
 4. Place it at `data/raw/10570_2026_7136_MOESM1_ESM.txt`, keeping the original filename.
 
-## 7. Citation
+## 8. Citation
 
 Nam, S., French, A. D., & Kashem, M. N. H. (2026). Open-source Rietveld refinement for cellulose crystallinity using a laboratory powder X-ray diffractometer: a hands-on tutorial. Cellulose. https://doi.org/10.1007/s10570-026-07136-7
